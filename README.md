@@ -1,23 +1,17 @@
 # Options-Trading-Strategies-in-Python
 
-I have Created code for Options Trading based on Various Trading Technical Indicators.
+Options Trading based on Various Trading Technical Indicators & parameters.
 
-1. Volatility Index (VIX) based Strategy
-2. Put / Call Ratio (PCR) based Strategy
-3. Trading Index (TRIN) based Strategy
-4. Turtle Trading based Strategy
-5. Monte Carlo Option Pricing in C++
+1. Volatility Index Strategy
+The  Volatility Index (VIX) is a measure of expected price fluctuations & of market’s expectation of volatility over the near term. The VIX, often termed as the "fear index," is calculated in real time by the by the Chicago Board Options Exchange.
 
-Still working on more advanced Strategies based on **Black Scholes Merton Option Pricing**. Next I will work on incorporating **Time Series** and **Neural Networks** (RNNs to be specific) to improve accuraacy (Decrease Standard Deviation from current models) and Perfomance.  
+2. Put-Call Ratio Strategy
+Put/Call ratio (PCR) is a popular derivative indicator, specifically designed to help traders gauge the overall sentiment (mood) of the market. The ratio is calculated either on the basis of options trading volumes or on the basis of the open interest for a particular period. If the ratio is more than 1, it means that more puts have been traded during the day and if it is less than 1, it means more calls have been traded. The PCR can be calculated for the options segment as a whole, which includes individual stocks as well as indices.
 
-**LSTMs** have gave me promosing results and now I am exploring advance LSTM like MD-LSTM and MiD-LSTM for better prediction and more feature inclusion.
+3. Trading Index  Strategy
 
-### Help & Motivate my work by little generosity:
 
-[![donateBitcoin](https://img.shields.io/badge/Donate-Bitcoin-yellow.svg)](https://tradeblock.com/bitcoin/address/1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND)
-[![donateEthereum](https://img.shields.io/badge/Donate-Ethereum-lightgrey.svg)](https://tradeblock.com/ethereum/account/0x462aD1ba8b73160e410e509F21c21C70Cf9dee7e)
 
-### My Work and Profile
+4. Turtle Trading  Strategy
 
-[![viewLinkedIn](https://img.shields.io/badge/View-LinkedIn-blue.svg)](https://www.linkedin.com/in/statsofharshpatel/)    [![viewGithub](https://img.shields.io/badge/View-Github-orange.svg)](https://github.com/PyPatel)
 
