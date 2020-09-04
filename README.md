@@ -1,8 +1,8 @@
-# Options-Trading-Strategies-in-Python
+# Options Trading Strategies
 
 Options Trading based on Various Trading Technical Indicators & parameters.
 
-1. Volatility Index Strategy
+1. #Volatility Index Strategy
 The  Volatility Index (VIX) is a measure of expected price fluctuations & of market’s expectation of volatility over the near term. The VIX, often termed as the "fear index," is calculated in real time by the by the Chicago Board Options Exchange.
 
 2. Put-Call Ratio Strategy
